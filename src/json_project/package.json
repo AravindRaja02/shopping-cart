@@ -1,0 +1,11 @@
+{
+  "name": "json_project",
+  "version": "1.0.0",
+  "description": "test-json server",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch test.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
